@@ -1,6 +1,6 @@
 # scMGAT
 
-scMGAT: Improving single-cell multi-omics data analysis based on graph attention networks
+scMGAT: Improving single-cell multi-omics data analysis based on multi-head graph attention networks
 
 
 
